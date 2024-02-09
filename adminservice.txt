@@ -1,4 +1,9 @@
 add and remove users
 manage the data
 
+<<<<<<< HEAD
 Your are my hero
+=======
+you are my hero
+and I am your hero
+>>>>>>> feature2
