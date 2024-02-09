@@ -1,4 +1,0 @@
-add and remove users
-change the roles
-
-manages the data of users
