@@ -1,11 +1,7 @@
 Get the user data
 process the data
 
-<<<<<<< HEAD
-login and logout
-=======
 get the first name and last name
->>>>>>> feature2
  
 
 change 1
